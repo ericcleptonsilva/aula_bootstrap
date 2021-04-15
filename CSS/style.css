@@ -1,6 +1,10 @@
 .navbar {
 background-color: #f5ab0c;
 }
+.nav-item{
+    font-weight: 600;
+    color: white;
+}
 
 .quem-somos{
     background-color: #03ce40;
@@ -8,4 +12,18 @@ background-color: #f5ab0c;
 }
 .padding{
     padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+#perceiros{
+    background-color: aquamarine;
+}
+
+ .text-justify {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+.bg-footer{
+    background-color: black;
+    color: white;
 }
